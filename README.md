@@ -167,13 +167,14 @@ A stopwatch with start, stop and reset controls and a lap recorder. It stays acc
 
 ## Screenshots
 
-Screenshots of every app are in the [`screenshots`](./screenshots) folder.
+### Unit Converter
+<img src="screenshots/unitconverter.png" width="220"> <img src="screenshots/unitconverter1.png" width="220"> <img src="screenshots/unitconverter2.png" width="220"> <img src="screenshots/unitconverter3.png" width="220">
 
-| App | Screenshot |
-|---|---|
-| Unit Converter | `screenshots/unit-converter.png` |
-| Calculator | `screenshots/calculator.png` |
-| Stopwatch | `screenshots/stopwatch.png` |
+### Calculator
+<img src="screenshots/calculator.png" width="220"> <img src="screenshots/calculator2.png" width="220">
+
+### Stopwatch
+<img src="screenshots/stopwatch.png" width="220"> <img src="screenshots/stopwatch2.png" width="220"> <img src="screenshots/stopwatch3.png" width="220">
 
 ---
 
