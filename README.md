@@ -182,9 +182,9 @@ A stopwatch with start, stop and reset controls and a lap recorder. It stays acc
 
 | Task | Demo video / LinkedIn post |
 |---|---|
-| Task 1: Unit Converter | [YOUR-LINKEDIN-POST-LINK](https://www.linkedin.com/) |
-| Task 3: Calculator | [YOUR-LINKEDIN-POST-LINK](https://www.linkedin.com/) |
-| Task 5: Stopwatch | [YOUR-LINKEDIN-POST-LINK](https://www.linkedin.com/) |
+| Task 1: Unit Converter | [YOUR-LINKEDIN-POST-LINK](https://lnkd.in/p/da6yYQC4) |
+| Task 3: Calculator | [YOUR-LINKEDIN-POST-LINK](https://lnkd.in/p/du3K4QPV) |
+| Task 5: Stopwatch | [YOUR-LINKEDIN-POST-LINK](https://lnkd.in/p/dT_WrDyj) |
 
 ---
 
@@ -239,6 +239,6 @@ OIBSIP/
 **Momina Raheel**
 Android App Development Intern, Oasis Infobyte
 GitHub: [shadowMomina](https://github.com/shadowMomina)
-LinkedIn: [YOUR-LINKEDIN-PROFILE-LINK](https://www.linkedin.com/)
+LinkedIn: [linkdin_ link](www.linkedin.com/in/momina-raheel-a98794365)
 
 #oasisinfobyte #androiddev #java #internship
