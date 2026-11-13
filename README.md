@@ -182,9 +182,9 @@ A stopwatch with start, stop and reset controls and a lap recorder. It stays acc
 
 | Task | Demo video / LinkedIn post |
 |---|---|
-| Task 1: Unit Converter | [YOUR-LINKEDIN-POST-LINK](https://lnkd.in/p/da6yYQC4) |
-| Task 3: Calculator | [YOUR-LINKEDIN-POST-LINK](https://lnkd.in/p/du3K4QPV) |
-| Task 5: Stopwatch | [YOUR-LINKEDIN-POST-LINK](https://lnkd.in/p/dT_WrDyj) |
+| Task 1: Unit Converter | [Unitconverter_LINK](https://lnkd.in/p/da6yYQC4) |
+| Task 3: Calculator | [Calculator-LINK](https://lnkd.in/p/du3K4QPV) |
+| Task 5: Stopwatch | [Stopwatch-LINK](https://lnkd.in/p/dT_WrDyj) |
 
 ---
 
